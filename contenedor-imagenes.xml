@@ -1,17 +1,16 @@
 <div class="ful-img" id="fulImgBox">
-        <img src="imgs/1.jpg" id="fulImg" alt="">
+        <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPEgFjPXehgcU_rp_k82h0SOD08Xd4O8RPmx0xLKIERoEYsXjHyRU0HnEa1Fc6E8aZ_t-LbRhSAcdzaqEUQ5LX5GkWCN1XLejeI6ifKH43SSrSSqCfHPeOBtfy500Xt2fDzX2bSfN2pB2nKCiTw3LoQniCb1iuHZ8xXL9TDxKinDkpxEvWOjyEBx7cHrc/s1600/1.jpg" id="fulImg" alt="">
         <span onclick="closeImg()">X</span>
     </div>
 
-    <h1><span>Image Gallery</span></h1>
-
+  
     <div class="img-gallery">
-        <img src=" imgs/1.jpg" onclick="openFulImg(this.src)" alt="">
-        <img src=" imgs/2.jpg" onclick="openFulImg(this.src)" alt="">
-        <img src=" imgs/3.jpg" onclick="openFulImg(this.src)" alt="">
-        <img src=" imgs/4.jpg" onclick="openFulImg(this.src)" alt="">
-        <img src=" imgs/5.jpg" onclick="openFulImg(this.src)" alt="">
-        <img src=" imgs/6.jpg" onclick="openFulImg(this.src)" alt="">
-        <img src=" imgs/7.jpg" onclick="openFulImg(this.src)" alt="">
-        <img src=" imgs/8.jpg" onclick="openFulImg(this.src)" alt="">
+        <img src=" https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPEgFjPXehgcU_rp_k82h0SOD08Xd4O8RPmx0xLKIERoEYsXjHyRU0HnEa1Fc6E8aZ_t-LbRhSAcdzaqEUQ5LX5GkWCN1XLejeI6ifKH43SSrSSqCfHPeOBtfy500Xt2fDzX2bSfN2pB2nKCiTw3LoQniCb1iuHZ8xXL9TDxKinDkpxEvWOjyEBx7cHrc/s1600/1.jpg" onclick="openFulImg(this.src)" alt="">
+        <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEKxtyGRM9OvtHNjsYyKbvHwW_Od4EQp9TO-kMrCKoncNn5Nxb3kR7GkBgtkVVFDYboDN0WGTCc0n_quC-ipph3Mv1vQbvf9wkSYWE-WFSxfXZuj9wKHkgTJUZd0yT1VZcrMRXXGy_WFKDmoF_4L2ZhxAmvzqX6u84HHpz1JOY0VuhsnaxdX0EQNmjC_U/s1600/2.jpg" onclick="openFulImg(this.src)" alt="">
+        <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjU9IwZ9q4NxC51W1MR3gyDkdS4jalraxIw7QWH7TE9d2RzcXYZRMDff1iXLqRx2CyNUkhWvoFebR1hvvRuULtbttDlBkwI2UBKnyYWzyBgKT2H2UH_EG-ajKpvNlmqMx_Qg5572I-1mCuNq1-E53begNGvaokRAflOGVt5FZK-JPfGZUwkmApbuXvpHmw/s1600/3.jpg" onclick="openFulImg(this.src)" alt="">
+        <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiglAifFHmcQ_aFBE0i7Pfs8f5FgqQXfchVG3BIPZz-31l09sMUFd3o70AxtxZY6elRwWRUWn5seNxJV-rns9Fawo1WABFygmJgWSOz8ob99buYytFGLCEQpnrjhAnWfFOCAJoQGyMhS66NUPNzvAtU1b_VwNd7VeUHCpVY0KzQZkMApUHaHBT1MJTmuk8/s1600/4.jpg" onclick="openFulImg(this.src)" alt="">
+        <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhX0Z7A1MJKVBoxLAHAmR3eN_GYdSRuFNVbxEnxcU41sMENOYmUQvCWWd6E_RsnU8ElhHNwsPYyEI4S6ko19WbcFpN2W6PTjz3azvavvvkHLHOsNWxabocHQCMInk_ZxFVjAO_EHvRuvehMBiHuk0hViOwZS0Ar9R-caYLWSG_IhHVs6Ysrm4-dXqWTZJM/s1600/5.jpg" onclick="openFulImg(this.src)" alt="">
+        <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfeGLJVolvZr_-cjT4ELS5Ywoa1j_soB_yHLdI4hMmXcWohjzN_fHxvo157vZV67_7fxi1cGlWHVT6f-YEGVLbHoH185sqXogSHFAN4Vfmd2MUwVeucKZAM_IzvkNNYJ_jvmRtOHYyS-LAWcYRdoU-DJ7xEOYQje8qS3TodgnvgqXCgRQxljkWsHlmmuA/s1600/6.jpg" onclick="openFulImg(this.src)" alt="">
+        <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjM533bbuh75XkBeYBYnvhrtEzjtdu1NbN7BXiyEpf_jD-7uCGmsnYOm75gDHYlEuus5P1WSAojr2N6avgPsIreDo56H_OxnRTA3P6n5800mzk1f6sSRnOPFfnhfh4KHApXK8210-PwBKin9sH3Tf3U9fJHfsxir1tTmz0_zy4vj7PJam_vsZ0quF6nUhA/s1600/7.jpg" onclick="openFulImg(this.src)" alt="">
+        <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWn4aR3zb3vRmS-oQ83j3X1Jpadm1FGlfPeb1xGR0NF1dbj02kY6iBXam76xZwYqeVDX_8JnvT0juICZB8VKg9avYVUKl6iQor6wAnGN7u2P6XWHVjSCRVTHyhcLJFuiFK0aOEC7k2B7nfOrztvDKYbzAbwpJKXWNz8dbwdmfhxbdC7WqEl1Shq17RqJg/s1600/8.jpg" onclick="openFulImg(this.src)" alt="">
     </div>
